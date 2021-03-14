@@ -53,4 +53,5 @@
 
 #### < Use Shell environment >
 
-- 
+- open shell to manage data
+
